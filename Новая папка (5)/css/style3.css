@@ -1,0 +1,44 @@
+.wrapper{
+    width: 400px;
+    height: 600px;
+    background-color: rgba(128, 128, 128, 0.589)
+}
+.header{
+    border: 1px solid rgb(143, 139, 139);
+    text-align: left;
+    background: grey;
+    font-size: 25px;
+    color: white;
+    font-weight: 50px;
+}
+.prod-elem {
+    display: flex;
+    justify-content: space-around;
+}
+.color{
+    background-color: purple;
+    border-radius: 5px ;
+    color: white;
+}
+.ld{
+    color: rgb(139, 112, 165);
+}
+.fg{
+    background-color: purple;
+    border-radius: 5px ;
+    color: white;
+}
+.hs{
+    background-color: purple;
+    border-radius: 5px ;
+    color: white;
+}
+.ld1{
+    color: rgb(139, 112, 165);
+}
+.dd{
+    color: rgb(139, 112, 165);
+}
+.xcc{
+    color: rgb(139, 112, 165);
+}
